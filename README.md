@@ -1,5 +1,5 @@
-# Diploma
-# VikToFilm - My Diploma for Bachelor's degree
+# My Diploma for Bachelor's degree
+# VikToFilm - Movie Recommendation System
 
 VikToFilm -  Інформаційна система релевантності фільмів до потреб користувача.
 
